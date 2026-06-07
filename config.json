@@ -1,0 +1,16 @@
+{
+    "hosts": [
+        "8.8.8.8",
+        "google.com",
+        "github.com",
+        "testingnet.xyz"
+    ],
+
+    "ports": [
+        22,
+        80,
+        443,
+        8080,
+        3306
+    ]
+}
